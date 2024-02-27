@@ -1,4 +1,5 @@
 require 'active_support/all'
+#rails framework, it is a collection of libraries that help you write your web application.
 
 @candidates = [
   {
